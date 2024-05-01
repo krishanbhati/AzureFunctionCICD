@@ -7,3 +7,4 @@ azure-cognitiveservices-vision-computervision
 azure-ai-vision-imageanalysis
 openai
 langchain
+pydantic-core
