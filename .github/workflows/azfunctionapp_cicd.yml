@@ -12,12 +12,12 @@ on:
       GIT_FunctionApp_Name:
         description: 'Provide the Function App Name'
         required: true
-        default: 'bicep-funcgdekhfv'
+        default: 'bicep-funcgdekhtv'
         
       GIT_FunctionApp_URL:
         description: 'Provide the Function App URL'
         required: true
-        default: 'https://bicep-funcgdekhfv.azurewebsites.net'
+        default: 'https://bicep-funcgdekhtv.azurewebsites.net'
         
        # This is the path of your Function app in Git.
       GIT_FunctionApp_PATH:
